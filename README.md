@@ -1,6 +1,25 @@
 # Network Troubleshooting & Fault Detection System
 
+<p align="center">
+  <img src="https://img.shields.io/badge/License-GPL_v3-blue.svg?style=for-the-badge&logo=gnu" alt="GPL License">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+</p>
+
 A complete smart system that monitors a local network, detects faults and performance issues, stores data locally, and visualizes devices on an interactive map.
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/dashboard1.png" alt="Monitoring Dashboard" width="800">
+  <br>
+  <em>Monitoring Dashboard with Map and Device list</em>
+  <br><br>
+  <img src="screenshots/dashboard2.png" alt="Device Details" width="800">
+  <br>
+  <em>Live latency charts and active map markers</em>
+</p>
 
 ## 🌟 Core Features
 
@@ -81,4 +100,4 @@ app/
 ```
 
 ## 📝 License
-This project is open-source and free to use.
+This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
